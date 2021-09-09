@@ -79,7 +79,7 @@ Ledgers are tools to record economic activities, known as transactions, which tr
 
 In the next class, we will explain WHY ledgers have an essential role.
 
-## Portfolio assignment 1.1.1 What is a ledger 
+## Portfolio assignment 1.1.1 What is a ledger R
 Which transfers of value from your everyday life are recorded in a ledger? Think beyond the examples mentioned in the video and come up with at least five new examples. Pro-tip: check out the answers for inspiration in the class Twitter thread.
 
 ## Further readings (sources or support)
