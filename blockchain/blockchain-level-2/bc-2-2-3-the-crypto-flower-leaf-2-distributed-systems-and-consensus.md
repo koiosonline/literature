@@ -116,15 +116,15 @@ We also like [this session](https://www.youtube.com/watch?v=3W_3AQrQEOM) from An
 2. Prove that you master the learning goals of this chapter:
 
 
-* categorize and break down the different set of properties of distributed ledgers (analyse)
+* - categorize and break down the different set of properties of distributed ledgers (analyse)
 
-* evaluate which properties settings in a blockchain can lead to which properties of the network and therefore which possible use cases are suited (evaluate)
+* - evaluate which properties settings in a blockchain can lead to which properties of the network and therefore which possible use cases are suited (evaluate)
 
-* analyse a random blockchain of your liking and based on the collected information evaluate whether the blockchain is well-suited for their described main goal (analyse)
+* - analyse a random blockchain of your liking and based on the collected information evaluate whether the blockchain is well-suited for their described main goal (analyse)
 
-* name the strengths and weaknesses of a blockchain or other form of distributed ledger based on the core properties (evaluate)
+* - name the strengths and weaknesses of a blockchain or other form of distributed ledger based on the core properties (evaluate)
 
-* analyse the impact of a change in properties of the network and their impact on the goal of that network
+* - analyse the impact of a change in properties of the network and their impact on the goal of that network
 
 
 ## Further readings
