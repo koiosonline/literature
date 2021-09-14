@@ -10,8 +10,6 @@ Other than the division of public, private and hybrid, you have a distinction wi
 
 >💡 The power of open-source is that you can build on the shoulders of giants. The world inspires you, and you allow the world to be inspired by you. It attracts great minds and talent and is a fast-growing approach to build software. 
 
- 
-
 >💡 Thanks to the value-sharing mechanisms of blockchain technology, a new internet is coming (web3). This enables communities to pay developers to create open-source software (this used to be a huge problem!). A good example of this is the booming website of [Gitcoin]( https://gitcoin.co/). 
 
 We talked about the Satoshi consensus, proof-of-work combined with the longest chain principle, limited blocksize, and alternatives (larger blocks, heaviest chain). But there is an entirely different category, one without the use of energy and calculating hashes. It uses stake instead of energy and is called proof of stake. 
@@ -19,12 +17,9 @@ We talked about the Satoshi consensus, proof-of-work combined with the longest c
 
 >💡 Proof of stake opens up an entirely new scale of reaching consensus. A stake can take many forms but is often represented by the monetary value in tokens. But stake could also be a reputation, proof of contribution, etc. 
 
- 
-
 
 >💡 Each form of consensus has benefits and downsides. Many are tested and used to solve different use cases. Time will teach us which consensus algorithm is suited best for which use case. 
 
- 
 
 >💡 You will find many proponents or opponents for a consensus algorithm or a combination of a consensus algorithm for a particular use case. We recommend approaching this area and many other areas in life by using the complementary approach. Try to refrain from tribalism, "mine is better than yours, I'm right, and you are wrong". Listen and learn. Rise from the parroting, think, and discuss with respect. There is a chance you might be wrong yourself. Learn from the world. 
 ## Two sides of a coin
@@ -68,7 +63,6 @@ But back to the example: the protocol algorithm randomly selects the minter base
 
 >💡 PoS holds a certain risk of big stakes that might lead to bigger stakes = centralizing the governance of a blockchain. Solutions for these challenges are being tested (2021). 
 
-  
 
 >💡 Rules of consensus: by making behaviour predictable by promoting good behaviour with rewards and make cheating expensive (**[the handicap principle](https://en.wikipedia.org/wiki/Handicap_principle)**).
 
@@ -107,24 +101,20 @@ We also like [this session](https://www.youtube.com/watch?v=3W_3AQrQEOM) from An
 ## Portfolio assignments 2.2.3 The crypto flower leaf 2: Distributed Systems & Consensus
 
 
-1. We explained the consensus algorithms PoW, PoS, BFT and dBFT. Which one of these consensus algorithms do you prefer and why?
-
-  
- 
- 
-
-2. Prove that you master the learning goals of this chapter:
+We explained the consensus algorithms PoW, PoS, BFT and dBFT. Which one of these consensus algorithms do you prefer and why?
 
 
-* - categorize and break down the different set of properties of distributed ledgers (analyse)
+Prove that you master the learning goals of this chapter:
 
-* - evaluate which properties settings in a blockchain can lead to which properties of the network and therefore which possible use cases are suited (evaluate)
+categorize and break down the different set of properties of distributed ledgers (analyse)
 
-* - analyse a random blockchain of your liking and based on the collected information evaluate whether the blockchain is well-suited for their described main goal (analyse)
+evaluate which properties settings in a blockchain can lead to which properties of the network and therefore which possible use cases are suited (evaluate)
 
-* - name the strengths and weaknesses of a blockchain or other form of distributed ledger based on the core properties (evaluate)
+analyse a random blockchain of your liking and based on the collected information evaluate whether the blockchain is well-suited for their described main goal (analyse)
 
-* - analyse the impact of a change in properties of the network and their impact on the goal of that network
+name the strengths and weaknesses of a blockchain or other form of distributed ledger based on the core properties (evaluate)
+
+analyse the impact of a change in properties of the network and their impact on the goal of that network
 
 
 ## Further readings
