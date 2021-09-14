@@ -78,6 +78,13 @@ Wow! Have you made it 😊 Hard times keeping up? Just remember that you start g
 Also possible: didn't we dazzle your mind? Let us try again with the ECDSA in the next session!
 
 
+## Portfolio assignment 2.2.2.1 Proof of Work
+
+
+**OPTIONAL** 
+
+Download a Bitcoin miner (https://www.easyminer.net/Downloads/) and try to start mining on your own PC. Post your hashrate in the Discord channel.
+
 ## Further readings
 
 * [Blockchain Demo Anders](https://andersbrownworth.com/blockchain/blockchain)
