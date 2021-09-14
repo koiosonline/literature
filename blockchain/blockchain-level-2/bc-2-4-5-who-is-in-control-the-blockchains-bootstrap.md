@@ -22,7 +22,7 @@ And you as a user can pick your restaurant based on your preferences! Do you wan
 ## If you want to understand forking
 We will use this restaurant example more often in the future to explain how you can innovate blockchains with something called forkology ;-) Go ahead and watch the video in the further readings! We will wait for you in the next session 😊
 
-## Portfolio assignment
+## Portfolio assignment 2.4.5 Who's in control?
 
 Make yourself a YouTube video of up to 5-10 minutes in which you explain how mining works and where you make a distinction between PoW mining and PoS minting. Include the link to the video in your portfolio.
 
