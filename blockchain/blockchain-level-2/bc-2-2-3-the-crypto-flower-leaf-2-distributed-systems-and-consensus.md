@@ -101,10 +101,10 @@ We also like [this session](https://www.youtube.com/watch?v=3W_3AQrQEOM) from An
 ## Portfolio assignments 2.2.3 The crypto flower leaf 2: Distributed Systems & Consensus
 
 
-We explained the consensus algorithms PoW, PoS, BFT and dBFT. Which one of these consensus algorithms do you prefer and why?
+1. We explained the consensus algorithms PoW, PoS, BFT and dBFT. Which one of these consensus algorithms do you prefer and why?
 
 
-Prove that you master the learning goals of this chapter:
+2. Prove that you master the learning goals of this chapter:
 
 categorize and break down the different set of properties of distributed ledgers (analyse)
 
