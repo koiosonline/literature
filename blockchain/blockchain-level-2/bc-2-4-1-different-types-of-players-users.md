@@ -3,11 +3,17 @@
 
 There are many different types of people, organizations, and other entities involved in blockchain ecosystems. A short (and most likely not complete) overview of some standard players: 
 
+
 * Users 
+
 * Miners & minters
+
 * Nodes & Validators
+
 * Developers
+
 * Other ecosystem entities 
+
 * Open-sourced ecosystem
 
 In this part 2.4, we will briefly discuss them and finally discuss who’s in control (or isn’t in power): the blockchain bootstrap. Let’s start with the first player in the field and one of the most important ones: the final end-user using the technology.  
