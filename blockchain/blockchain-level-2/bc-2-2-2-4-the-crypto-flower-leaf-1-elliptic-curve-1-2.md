@@ -79,7 +79,6 @@ Download the GnuPG (https://gnupg.org/) and sign the following message with your
 * [Private public key explained (high overview 1) ](https://www.youtube.com/watch?v=AQDCe585Lnc)
 * [Private public key explained (high overview 2) ](https://www.youtube.com/watch?v=67uW07QDHxE )
 * [Quantum computing & ECDSA](https://www.youtube.com/watch?v=wlzJyp3Qm7s&vl=en)
-* [Koios ECDSA](https://www.youtube.com/watch?v=z7AiQ1HQqVE&t=163s)
 * [Overview from private to public key](https://www.bitcoinnotbombs.com/wp-content/uploads/2014/01/address.png)
 * [Public key cryptography (2nd part if you are in a rush today) ](https://www.youtube.com/watch?v=YEBfamv-_do&feature=emb_logo )
 * [Anders Public / Private keys signing](https://www.youtube.com/watch?v=xIDL_akeras )
