@@ -88,6 +88,15 @@ Open blockchains send data without hashing it, where data is publicly available.
 
 In the following sessions, we will find these use-cases of cryptography in blockchains per topic. So, sit back and enjoy the ride. But, first, get out there for a short, well-deserved break. You might need it because the subsequent sessions might prove a bit tough as "basic" sessions. Next up: essential cryptographic elements in blockchain technology. The first stop is the Proof of Work consensus algorithm.
 
+## Portfolio assignment 2.2.2 The crypto flower leaf 1: cryptography
+
+Pick a random document from your laptop desktop and calculate the MD5, SHA1 and SHA265 hashes for it. Change the file, and do it again. Watch the changes.
+
+Make yourself a YouTube video of 2-5 minutes in which you explain how a blockchain works and what components it consists of and how cryptography helps in this. Use the video from previous weeks, but this time try to explain as clearly as possible how cryptography works and where you can encounter some cryptographics in blockchains.
+
+Describe which leaf you would like to specialize in and why. Also share your thoughts on how you want to accomplish that.
+
+
 ## Further readings
 
 * [Binary code](https://en.m.wikipedia.org/wiki/Binary_code)
