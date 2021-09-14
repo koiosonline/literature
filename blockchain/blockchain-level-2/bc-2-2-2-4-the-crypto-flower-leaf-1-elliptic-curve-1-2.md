@@ -66,7 +66,7 @@ You will find multiple great clips in the further reading, explaining public and
 >💡 Many of the clips are of the utmost important to frame your basic understanding of cryptography. Grow your skills, and watch them as many times as needed. In a digital era, cryptography is getting more essential by the day!
 
 
-Portfolio assignment 2.2.2.4 Elliptic Curve Digital Signature Algorithm (ECDSA)
+## Portfolio assignment 2.2.2.4 Elliptic Curve Digital Signature Algorithm (ECDSA)
 
 ** OPTIONAL! ** 
 
