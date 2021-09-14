@@ -1,4 +1,4 @@
-# Bc-2.8 Putting it all together: how do blockchains work?
+# BC-2.8 Putting it all together: how do blockchains work?
 
 
 ## So what do we already know
@@ -38,16 +38,16 @@ A final message from Morpheus:
 ![Morpheus]( https://cdn.shopify.com/s/files/1/0684/5947/articles/morpheus-red-pill-blue-pill_1024x1024.jpg?v=1536175294)
 
 
-## Portfolio assignment 
+## Portfolio assignment 2-8-1
 
 
 
-Create your own tradeable token
+1. Create your own tradeable token
 
-Create your own non-fungible token. Where, how, what is all up to you. Suprise us :-)
+2. Create your own non-fungible token. Where, how, what is all up to you. Suprise us :-)
 
 
-Prove that you can:
+3. Prove that you can:
 1.Describe the concept of “commons” and the “tragedy of the commons” in my own words
 2. Describe in my own words what is meant with “an ecosystem” and how they relate to blockchain
 3. Explain the role of tokens in an blockchain based ecosystem
