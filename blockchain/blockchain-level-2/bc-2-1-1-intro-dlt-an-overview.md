@@ -84,6 +84,15 @@ Here are two tables from this [source]( https://www.sciencedirect.com/science/ar
 
 Perhaps needed is some additional info on hybrid blockchains. An [article]( https://101blockchains.com/hybrid-blockchain/) explaining hybrid blockchains in more detail (written by proponents of hybrid blockchains with statements as "hybrid blockchains, combining the best of both worlds"). 
 
+
+## Portfolio assignments 2.1.1 Intro DLT: an overview 
+
+
+What is the difference between public/private and permissioned / permissionless? The answer needs to be correct and complete, but not more than 20 words.
+
+Watch the film Ready Player One and record which parts you can relate to centralized as well as decentralized blockchain technology from the film. Does this movie truly have a happy ending? Record your findings on the FilmForm. 
+
+
 ## Further readings
 * [Distributed Ledger Technology](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp)
 * [A random source that describes types of blockchains (1/2, but one of many)](https://data-flair.training/blogs/types-of-blockchain/)
