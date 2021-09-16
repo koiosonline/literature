@@ -3,7 +3,7 @@
 The art of innovation and a 10 step guideline for the disruptive innovator: Video “The art of innovation”. Rethink. Redefine. Recreate
 Let’s start with a video in the context of ”Rethink. Redefine. Recreate” with ten steps for the disruptive innovator. See this as a guideline to help you formulate your idea and what mindset or tactics to use when you approach the different phases of innovation (search, select, implementation, capture). 
 
-<iframe src=" https://www.youtube.com/watch?v=Mtjatz9r-Vc" /> 
+[See video here](https://www.youtube.com/watch?v=Mtjatz9r-Vc)
 
 1. It starts with the desire to make meaning as opposed to make money (change the world)
 
